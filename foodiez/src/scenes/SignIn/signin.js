@@ -75,7 +75,7 @@ export default function SignIn() {
               ]}
               onPress={() => navigation.navigate('MainLayout')}
             >
-              <Text style={[{color: '#106C4A', fontSize:25}]}>SIGN IN</Text>
+              <Text style={[{color: '#106C4A', fontSize:25}]}>SIGN IN huy</Text>
             </TouchableOpacity>
 
             <TouchableOpacity
